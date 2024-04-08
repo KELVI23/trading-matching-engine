@@ -35,7 +35,7 @@ The trading matching engine with candlestick graph provides traders with a power
 ## examples
 <table>
   <tr>
-    <td align="left">
+    <td align="center">
       Print exchange stats
     </td>
     <td align="center">
@@ -43,7 +43,7 @@ The trading matching engine with candlestick graph provides traders with a power
     </td>
   </tr>
   <tr>
-    <td align="left">
+    <td align="center">
       <img src="https://imgur.com/PT1HZtS.png" alt="Print exchange stats screenshot" height="20%"/>
     </td>
     <td align="center">
@@ -51,20 +51,19 @@ The trading matching engine with candlestick graph provides traders with a power
     </td>
   </tr>
   <tr>
-    <td align="left">
+    <td align="center">
       Plot volume data
     </td>
-    <td align="right">
+    <td align="center">
       Plot Price data
     </td>
-    <td></td>
   </tr>
   <tr>
-    <td align="left">
+    <td align="center">
       <img src="https://imgur.com/YGnjaZF.png" alt="Plot volume data screenshot" height="20%"/>
       <img src="https://imgur.com/RT1UFM0.png" alt="Plot volume data screenshot" height="20%"/>
     </td>
-    <td align="right">
+    <td align="center">
       <img src="https://imgur.com/KfdcPxj.png" alt="Plot Price data screenshot" height="40%"/>
       <img src="https://imgur.com/xYNxIGQ.png" alt="Plot Price data screenshot" height="40%"/>
     </td>
