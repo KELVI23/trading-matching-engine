@@ -31,3 +31,73 @@ This project implements a trading matching engine with added functionality for v
 
 ## Conclusion
 The trading matching engine with candlestick graph provides traders with a powerful toolset for analyzing cryptocurrency markets and making informed trading decisions. By leveraging exchange statistics and visualizing trading data, users can gain valuable insights into market trends and dynamics. The iterative development cycle ensured that the system met performance and usability requirements, resulting in a robust and efficient trading platform.
+
+## examples
+<table>
+  <tr>
+    <td align="left">
+      Print exchange stats
+    </td>
+    <td align="center">
+      Make a bid
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="https://imgur.com/PT1HZtS.png" alt="Print exchange stats screenshot" height="20%"/>
+    </td>
+    <td align="center">
+      <img src="https://imgur.com/chUIQ1r.png" alt="Make a bid screenshot" height="40%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      Plot volume data
+    </td>
+    <td align="right">
+      Plot Price data
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="https://imgur.com/YGnjaZF.png" alt="Plot volume data screenshot" height="20%"/>
+      <img src="https://imgur.com/RT1UFM0.png" alt="Plot volume data screenshot" height="20%"/>
+    </td>
+    <td align="right">
+      <img src="https://imgur.com/KfdcPxj.png" alt="Plot Price data screenshot" height="40%"/>
+      <img src="https://imgur.com/xYNxIGQ.png" alt="Plot Price data screenshot" height="40%"/>
+    </td>
+  </tr>
+</table>
+
+
+<!--
+<p align="left">
+  Print exchange stats
+  <img src="https://imgur.com/PT1HZtS.png" alt="DJ app screenshot" height="20%"/>
+</p>
+
+<p align="center">
+  Make a bid
+  <img src="https://imgur.com/chUIQ1r.png" alt="DJ app screenshot" height="20%"/>
+</p>
+
+<p align="right">
+  Plot volume data
+  <img src="https://imgur.com/YGnjaZF.png" alt="DJ app screenshot" height="20%"/>
+</p>
+
+<p align="left">
+  Plot volume data
+  <img src="https://imgur.com/YGnjaZF.png" alt="DJ app screenshot" height="20%"/>
+  <img src="https://imgur.com/RT1UFM0.png" alt="DJ app screenshot" height="20%"/>
+</p>
+
+
+<p align="right">
+  Plot Price data
+  <img src="https://imgur.com/KfdcPxj.png" alt="DJ app screenshot" height="20%"/>
+</p>
+
+-->
