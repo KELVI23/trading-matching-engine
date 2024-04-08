@@ -25,7 +25,7 @@ This project implements a trading matching engine with added functionality for v
 
 5. **Refinement and Optimization**: Based on testing results, optimizations were made to improve the speed and efficiency of the matching engine. Data structures were optimized to handle large volumes of trading data more effectively.
 
-6. **Integration and Deployment**: The components were integrated, and the system was deployed for testing in a live environment. User feedback was collected for further refinement.
+6. **Integration and Deployment**: The components were integrated, and the system was deployed for testing in a live environment. User feedback was collected from peers for further refinement.
 
 7. **Documentation and Release**: Comprehensive documentation was prepared to guide users on system usage and configuration. The system was released to production with regular updates planned to address user feedback and introduce new features.
 
