@@ -32,7 +32,7 @@ This project implements a trading matching engine with added functionality for v
 ## Conclusion
 The trading matching engine with candlestick graph provides traders with a powerful toolset for analyzing cryptocurrency markets and making informed trading decisions. By leveraging exchange statistics and visualizing trading data, users can gain valuable insights into market trends and dynamics. The iterative development cycle ensured that the system met performance and usability requirements, resulting in a robust and efficient trading platform.
 
-## examples
+## Examples
 <table>
   <tr>
     <td align="center">
